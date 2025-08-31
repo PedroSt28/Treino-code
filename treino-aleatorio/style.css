@@ -1,0 +1,125 @@
+*{
+
+    margin: 0%;
+    padding: 0%;
+
+}
+
+.tudo{
+
+    display: flex;
+
+}
+
+
+.esquerda{
+
+width: 40%;
+height: 100vh;
+background-color: rgb(148, 3, 3);
+display: flex;
+align-items: center;
+flex-direction: column;
+
+}
+
+.esquerda h1{
+
+margin-top: 10px;
+
+}
+
+.c-cima{
+
+height: 50%;
+width: 80%;
+background-color: aliceblue;
+margin: 0% 10% 20% 10%;
+
+}
+
+.c-baixo{
+
+height: 25%;
+width: 40%;
+background-color: rgb(255, 255, 255);
+border-radius: 50%;
+}
+
+.direita{
+
+background-color: rgb(235, 235, 4);
+width: 100%;
+height: 100vh;
+display: flex;
+flex-direction: column;
+align-items: center;
+
+}
+
+.title{
+
+padding: 20pxS;
+color: rgb(5, 1, 206);
+margin: 5px;
+
+}
+
+.cabeçalio{
+
+height: 5%;
+width: 90%;
+background-color: aliceblue;
+border: 2px  rgb(190, 190, 0);
+border-radius: 20px;
+padding: 10px;
+
+}
+
+.cabeçalio ul{
+
+display: flex;
+justify-content: space-around;
+align-items: center;
+
+}
+
+
+.list{
+
+display: flex;
+align-items: center;
+color: rgb(0, 0, 0);
+padding: 2px;
+
+}
+
+
+.list i{
+
+height:20px ;
+width: 20px;
+margin-left: 5px;
+}
+
+.d-baixo{
+
+height: 80%;
+width: 70%;
+background-color:blue;
+margin: 80px;
+display: flex;
+justify-content: space-around;
+align-items: center;
+border-radius: 10px;
+
+}
+
+.meio{
+
+height: 80%;
+width: 40%;
+background-color: rgb(255, 255, 255);
+
+
+}
